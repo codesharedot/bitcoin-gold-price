@@ -1,5 +1,5 @@
-# third order chart 
+# ethereum price with python 
 
-This program creates a third order chart.
+Gets the  + coin +  price with Python and JSON.
 
 https://pythonbasics.org
