@@ -1,4 +1,4 @@
-# ethereum price with python 
+# ethereum price 
 
 Gets the ethereum price with Python (from JSON).
 
