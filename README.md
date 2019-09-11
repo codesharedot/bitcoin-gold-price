@@ -1,5 +1,5 @@
 # ethereum price with python 
 
-Gets the  + coin +  price with Python and JSON.
+Gets the ethereum price with Python (from JSON).
 
 https://pythonbasics.org
