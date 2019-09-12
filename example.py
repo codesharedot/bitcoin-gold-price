@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-unus-sed-leo_api_url = 'https://api.coinmarketcap.com/v1/ticker/unus-sed-leo/'
-response = requests.get(unus-sed-leo_api_url)
+huobi-token_api_url = 'https://api.coinmarketcap.com/v1/ticker/huobi-token/'
+response = requests.get(huobi-token_api_url)
 response_json = response.json()
 print(response_json)
 
