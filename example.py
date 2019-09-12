@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-huobi-token_api_url = 'https://api.coinmarketcap.com/v1/ticker/huobi-token/'
-response = requests.get(huobi-token_api_url)
+tron_api_url = 'https://api.coinmarketcap.com/v1/ticker/tron/'
+response = requests.get(tron_api_url)
 response_json = response.json()
 print(response_json)
 

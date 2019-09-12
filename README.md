@@ -1,5 +1,5 @@
-# huobi-token price 
+# tron price 
 
-Gets the huobi-token price with Python (from JSON).
+Gets the tron price with Python (from JSON).
 
 https://pythonbasics.org
