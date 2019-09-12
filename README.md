@@ -1,5 +1,5 @@
-# eos price 
+# ripple price 
 
-Gets the eos price with Python (from JSON).
+Gets the ripple price with Python (from JSON).
 
 https://pythonbasics.org
