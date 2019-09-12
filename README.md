@@ -1,5 +1,5 @@
-# ripple price 
+# binance-coin price 
 
-Gets the ripple price with Python (from JSON).
+Gets the binance-coin price with Python (from JSON).
 
 https://pythonbasics.org
