@@ -1,5 +1,5 @@
-# dash price 
+# ethereum-classic price 
 
-Gets the dash price with Python (from JSON).
+Gets the ethereum-classic price with Python (from JSON).
 
 https://pythonbasics.org
