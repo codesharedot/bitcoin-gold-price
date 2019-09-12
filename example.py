@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-cardano_api_url = 'https://api.coinmarketcap.com/v1/ticker/cardano/'
-response = requests.get(cardano_api_url)
+stellar_api_url = 'https://api.coinmarketcap.com/v1/ticker/stellar/'
+response = requests.get(stellar_api_url)
 response_json = response.json()
 print(response_json)
 

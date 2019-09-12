@@ -1,5 +1,5 @@
-# cardano price 
+# stellar price 
 
-Gets the cardano price with Python (from JSON).
+Gets the stellar price with Python (from JSON).
 
 https://pythonbasics.org
