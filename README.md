@@ -1,5 +1,5 @@
-# ethereum price 
+# bitcoin-cash price 
 
-Gets the ethereum price with Python (from JSON).
+Gets the bitcoin-cash price with Python (from JSON).
 
 https://pythonbasics.org
