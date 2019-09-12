@@ -1,5 +1,5 @@
-# binance-coin price 
+# bitcoin-sv price 
 
-Gets the binance-coin price with Python (from JSON).
+Gets the bitcoin-sv price with Python (from JSON).
 
 https://pythonbasics.org
