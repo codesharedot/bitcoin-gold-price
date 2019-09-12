@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-tron_api_url = 'https://api.coinmarketcap.com/v1/ticker/tron/'
-response = requests.get(tron_api_url)
+dash_api_url = 'https://api.coinmarketcap.com/v1/ticker/dash/'
+response = requests.get(dash_api_url)
 response_json = response.json()
 print(response_json)
 

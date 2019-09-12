@@ -1,5 +1,5 @@
-# tron price 
+# dash price 
 
-Gets the tron price with Python (from JSON).
+Gets the dash price with Python (from JSON).
 
 https://pythonbasics.org
