@@ -7,14 +7,14 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-bitcoin-sv_api_url = 'https://api.coinmarketcap.com/v1/ticker/bitcoin-sv/'
-response = requests.get(bitcoin-sv_api_url)
+monero_api_url = 'https://api.coinmarketcap.com/v1/ticker/monero/'
+response = requests.get(monero_api_url)
 response_json = response.json()
 print(response_json)
 
 for coin in response.json():
     price = coin.get("price_usd", "U$S Price not provided")
-    bitcoin-sv_price = float(("{0:.2f}").format(float(price)))
-    print("$ " + str(bitcoin-sv_price))
-    bitcoin-sv_price_eur = float(("{0:.2f}").format(float(price)*rate))   
-    print("€ " + str(bitcoin-sv_price_eur))
+    coin_price = float(("{0:.2f}").format(float(price)))
+    print("$ " + str(coin_price))
+    coin_price_eur = float(("{0:.2f}").format(float(price)*rate))   
+    print("€ " + str(coin_price_eur))
