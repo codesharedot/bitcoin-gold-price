@@ -1,5 +1,5 @@
-# monero price 
+# cardano price 
 
-Gets the monero price with Python (from JSON).
+Gets the cardano price with Python (from JSON).
 
 https://pythonbasics.org
