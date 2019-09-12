@@ -1,5 +1,5 @@
-# stellar price 
+# unus-sed-leo price 
 
-Gets the stellar price with Python (from JSON).
+Gets the unus-sed-leo price with Python (from JSON).
 
 https://pythonbasics.org
