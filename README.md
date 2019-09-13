@@ -1,5 +1,5 @@
-# ethereum-classic price 
+# tezos price 
 
-Gets the ethereum-classic price with Python (from JSON).
+Gets the tezos price with Python (from JSON).
 
 https://pythonbasics.org
