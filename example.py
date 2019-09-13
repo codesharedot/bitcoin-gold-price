@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-cosmos_api_url = 'https://api.coinmarketcap.com/v1/ticker/cosmos/'
-response = requests.get(cosmos_api_url)
+maker_api_url = 'https://api.coinmarketcap.com/v1/ticker/maker/'
+response = requests.get(maker_api_url)
 response_json = response.json()
 print(response_json)
 
