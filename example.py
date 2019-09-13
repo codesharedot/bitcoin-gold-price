@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-tezos_api_url = 'https://api.coinmarketcap.com/v1/ticker/tezos/'
-response = requests.get(tezos_api_url)
+iota_api_url = 'https://api.coinmarketcap.com/v1/ticker/iota/'
+response = requests.get(iota_api_url)
 response_json = response.json()
 print(response_json)
 
