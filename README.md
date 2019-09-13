@@ -1,5 +1,5 @@
-# chainlink price 
+# cosmos price 
 
-Gets the chainlink price with Python (from JSON).
+Gets the cosmos price with Python (from JSON).
 
 https://pythonbasics.org
