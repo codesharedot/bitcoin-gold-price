@@ -1,5 +1,5 @@
-# decred price 
+# vechain price 
 
-Gets the decred price with Python (from JSON).
+Gets the vechain price with Python (from JSON).
 
 https://pythonbasics.org
