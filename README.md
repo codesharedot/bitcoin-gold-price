@@ -1,5 +1,5 @@
-# ontology price 
+# nem price 
 
-Gets the ontology price with Python (from JSON).
+Gets the nem price with Python (from JSON).
 
 https://pythonbasics.org
