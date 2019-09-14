@@ -1,5 +1,5 @@
-# crypto-com-coin price 
+# ontology price 
 
-Gets the crypto-com-coin price with Python (from JSON).
+Gets the ontology price with Python (from JSON).
 
 https://pythonbasics.org

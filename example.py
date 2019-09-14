@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-crypto-com-coin_api_url = 'https://api.coinmarketcap.com/v1/ticker/crypto-com-coin/'
-response = requests.get(crypto-com-coin_api_url)
+ontology_api_url = 'https://api.coinmarketcap.com/v1/ticker/ontology/'
+response = requests.get(ontology_api_url)
 response_json = response.json()
 print(response_json)
 
