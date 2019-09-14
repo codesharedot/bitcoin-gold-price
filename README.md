@@ -1,5 +1,5 @@
-# maker price 
+# usd-coin price 
 
-Gets the maker price with Python (from JSON).
+Gets the usd-coin price with Python (from JSON).
 
 https://pythonbasics.org
