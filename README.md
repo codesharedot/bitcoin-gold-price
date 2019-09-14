@@ -1,5 +1,5 @@
-# paxos-standard-token price 
+# basic-attention-token price 
 
-Gets the paxos-standard-token price with Python (from JSON).
+Gets the basic-attention-token price with Python (from JSON).
 
 https://pythonbasics.org
