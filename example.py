@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-hedgetrade_api_url = 'https://api.coinmarketcap.com/v1/ticker/hedgetrade/'
-response = requests.get(hedgetrade_api_url)
+v-systems_api_url = 'https://api.coinmarketcap.com/v1/ticker/v-systems/'
+response = requests.get(v-systems_api_url)
 response_json = response.json()
 print(response_json)
 

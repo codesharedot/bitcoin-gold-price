@@ -1,5 +1,5 @@
-# hedgetrade price 
+# v-systems price 
 
-Gets the hedgetrade price with Python (from JSON).
+Gets the v-systems price with Python (from JSON).
 
 https://pythonbasics.org
