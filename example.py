@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-dogecoin_api_url = 'https://api.coinmarketcap.com/v1/ticker/dogecoin/'
-response = requests.get(dogecoin_api_url)
+hedgetrade_api_url = 'https://api.coinmarketcap.com/v1/ticker/hedgetrade/'
+response = requests.get(hedgetrade_api_url)
 response_json = response.json()
 print(response_json)
 

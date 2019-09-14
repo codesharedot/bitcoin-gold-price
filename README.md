@@ -1,5 +1,5 @@
-# dogecoin price 
+# hedgetrade price 
 
-Gets the dogecoin price with Python (from JSON).
+Gets the hedgetrade price with Python (from JSON).
 
 https://pythonbasics.org
