@@ -1,5 +1,5 @@
-# v-systems price 
+# paxos-standard-token price 
 
-Gets the v-systems price with Python (from JSON).
+Gets the paxos-standard-token price with Python (from JSON).
 
 https://pythonbasics.org

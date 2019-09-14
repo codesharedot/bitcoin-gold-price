@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-v-systems_api_url = 'https://api.coinmarketcap.com/v1/ticker/v-systems/'
-response = requests.get(v-systems_api_url)
+paxos-standard-token_api_url = 'https://api.coinmarketcap.com/v1/ticker/paxos-standard-token/'
+response = requests.get(paxos-standard-token_api_url)
 response_json = response.json()
 print(response_json)
 
