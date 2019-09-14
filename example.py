@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-zcash_api_url = 'https://api.coinmarketcap.com/v1/ticker/zcash/'
-response = requests.get(zcash_api_url)
+dogecoin_api_url = 'https://api.coinmarketcap.com/v1/ticker/dogecoin/'
+response = requests.get(dogecoin_api_url)
 response_json = response.json()
 print(response_json)
 
