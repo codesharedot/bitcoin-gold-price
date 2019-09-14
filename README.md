@@ -1,5 +1,5 @@
-# basic-attention-token price 
+# decred price 
 
-Gets the basic-attention-token price with Python (from JSON).
+Gets the decred price with Python (from JSON).
 
 https://pythonbasics.org
