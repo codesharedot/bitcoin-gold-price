@@ -1,5 +1,5 @@
-# trueusd price 
+# qtum price 
 
-Gets the trueusd price with Python (from JSON).
+Gets the qtum price with Python (from JSON).
 
 https://pythonbasics.org

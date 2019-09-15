@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-trueusd_api_url = 'https://api.coinmarketcap.com/v1/ticker/trueusd/'
-response = requests.get(trueusd_api_url)
+qtum_api_url = 'https://api.coinmarketcap.com/v1/ticker/qtum/'
+response = requests.get(qtum_api_url)
 response_json = response.json()
 print(response_json)
 
