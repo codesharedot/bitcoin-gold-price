@@ -1,5 +1,5 @@
-# qtum price 
+# bitcoin-gold price 
 
-Gets the qtum price with Python (from JSON).
+Gets the bitcoin-gold price with Python (from JSON).
 
 https://pythonbasics.org

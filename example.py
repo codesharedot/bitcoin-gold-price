@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-qtum_api_url = 'https://api.coinmarketcap.com/v1/ticker/qtum/'
-response = requests.get(qtum_api_url)
+bitcoin-gold_api_url = 'https://api.coinmarketcap.com/v1/ticker/bitcoin-gold/'
+response = requests.get(bitcoin-gold_api_url)
 response_json = response.json()
 print(response_json)
 
