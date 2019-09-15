@@ -1,5 +1,5 @@
-# vechain price 
+# trueusd price 
 
-Gets the vechain price with Python (from JSON).
+Gets the trueusd price with Python (from JSON).
 
 https://pythonbasics.org
